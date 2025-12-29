@@ -14,6 +14,6 @@ I came to know a cli where you need to use 'curl' command and type the Url addre
 means all the 10 people who think this is good.
 
 What I used:
-  bash scripting 
-  free wheather api
+  bash scripting ,
+  free wheather api,
   this website help me get the free web apis https://open-meteo.com/
